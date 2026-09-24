@@ -1,0 +1,21 @@
+cstudent_id,interest_area,level,interests,target_course
+S01,Programming and software development,Beginner,Programming software development Java Python,C01
+S02,Web and application development,Beginner,Web HTML CSS JavaScript applications,C03
+S03,Data analysis and statistics,Beginner,Data analysis statistics Python visualization,C05
+S04,Artificial intelligence,Advanced,AI machine learning predictive models,C06
+S05,Internet of Things,Intermediate,IoT sensors microcontrollers connected devices,C08
+S06,Networking and security,Intermediate,Networks routing protocols cybersecurity,C09
+S07,Mobile development,Intermediate,Android mobile applications Kotlin,C11
+S08,Cloud and deployment,Advanced,Cloud deployment scalable systems automation,C12
+S09,Database development,Intermediate,SQL databases data modelling queries,C04
+S10,User interface design,Beginner,UI UX usability prototypes design,C15
+S11,Data science,Advanced,Data science big data analytics Python,C14
+S12,Embedded technology,Advanced,Embedded systems microcontrollers hardware sensors,C17
+S13,Software engineering,Intermediate,Software design testing agile version control,C13
+S14,Cybersecurity,Intermediate,Security encryption authentication vulnerabilities,C10
+S15,Web commerce,Intermediate,Web online stores ecommerce customer data,C20
+S16,Statistics and data,Beginner,Statistics probability data interpretation,C16
+S17,Cloud software,Advanced,Cloud DevOps containers deployment,C18
+S18,Business technology,Beginner,Information systems business technology,C19
+S19,AI and data,Advanced,AI machine learning data analytics,C07
+S20,Programming applications,Intermediate,Java programming application development,C02
